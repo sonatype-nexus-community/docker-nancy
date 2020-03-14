@@ -3,6 +3,22 @@
 </p>
 
 
+# NEWSFLASH!  Nancy has a new ship!
+
+The community team at Sonatype has been working hard on upgrading **docker-nancy** from a Post Panamax cargo ship to a new and improved Triple E vessel. (See the diagram below).  As a result, this project is being archived.
+
+You can get a hold of a dockerized version of Nancy now at [nancy](https://github.com/sonatype-nexus-community/nancy) (https://github.com/sonatype-nexus-community/nancy)
+
+Bon Voyage!
+
+
+
+<p align="center">
+    <img src="biggest-container-ship-evolution.jpg" width="500"/>
+</p>
+Image courtesy of: [Vessel Tracking](http://www.vesseltracking.net/article/biggest-container-ship)
+
+
 
 # docker-nancy
 
